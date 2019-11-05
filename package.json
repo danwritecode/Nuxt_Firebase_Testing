@@ -1,0 +1,24 @@
+{
+  "name": "firebase_nuxt-vuetify",
+  "version": "1.0.0",
+  "description": "My stylish Nuxt.js project",
+  "author": "Dan Nelson",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "@nuxtjs/axios": "^5.3.6",
+    "cookieparser": "^0.1.0",
+    "firebase": "^7.2.3",
+    "js-cookie": "^2.2.1",
+    "jwt-decode": "^2.2.0",
+    "nuxt": "^2.0.0"
+  },
+  "devDependencies": {
+    "@nuxtjs/vuetify": "^1.0.0"
+  }
+}
